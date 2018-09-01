@@ -1,6 +1,8 @@
 Network Status Page - 0.2.1
 ===================
 
+<b>THIS IS A 1:1 CLONE!</b>
+
 Designed to monitor a local server and network with forecast.io, Plex, and pfSense integration.
 
 [Live site][ls]
